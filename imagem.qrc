@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="imagem_logo">
+    <file>Logo_Grand_Chase_Chaos.png</file>
+  </qresource>
+</RCC>
